@@ -19,7 +19,7 @@ This blog post guides the process of setting up Minikube on Windows to facilitat
 
 ## Full-Stack Developer | DevOps Enthusiast
 
-**Email:** [farizahmad.8591@gmail.com]  
+**Email:** farizahmad.8591@gmail.com  
 **Location:** Islamabad, Pakistan
 
 ---
