@@ -1,6 +1,10 @@
 ## 1. Containerize Your MERN Application
 
+`My Resource :`  (https://github.com/Zetrio16/SocialEcho)
+
 ### Dockerize the MERN app:
+
+`Orignal Resource:` (https://github.com/nz-m/SocialEcho)
 
 **Steps Taken:**
 
