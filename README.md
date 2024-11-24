@@ -15,12 +15,17 @@ This blog compares Docker and Podman, focusing on architecture, security, buildi
 ### 2. **Installing Minikube (Kubernetes Kernel Distribution) on Windows**
 This blog post guides the process of setting up Minikube on Windows to facilitate local testing and development on Kubernetes. It simplifies running a cluster locally by using any of the available virtualization options such as Hyper-V or WSL2. Prerequisites to install the blog include enabling virtualization, installing Docker (optional), and getting kubectl set up. It also goes through the installation process and how to start and interact with the Kubernetes cluster using both kubectl and Minikube commands. By using Minikube, it shows how to efficiently simulate environments for developing and learning on a local machine.
 
+---
+
 # Fariz Ahmad
 
 ## Full-Stack Developer | DevOps Enthusiast
 
 **Email:** farizahmad.8591@gmail.com  
-**Location:** Islamabad, Pakistan
+**Phone:** +92 311-9608591  
+**Location:** Islamabad, Pakistan  
+**LinkedIn:** [Fariz Ahmad](https://www.linkedin.com/in/farizahmad16/)  
+**GitHub:** [Zetrio16](https://github.com/Zetrio16)  
 
 ---
 
@@ -30,57 +35,81 @@ Enthusiastic and emerging full-stack developer with a strong focus on backend te
 ---
 
 ### Skills
-- **Languages:** JavaScript (React, Node.js), Python
-- **Technologies:** Docker & Docker Compose, Kubernetes & Knative, MongoDB, GitHub Actions, Helm, Git
-- **DevOps:** CI/CD, Automated Testing, Containerization
-- **Others:** Linux, WebAssembly
+- **Languages:** C++, C#, Java, Python, JavaScript, HTML/CSS, PHP, LaTeX  
+- **Frameworks:** React, Redux, Node.js, Express.JS, Bootstrap, jQuery  
+- **Databases:** SQL, MySQL, MongoDB  
+- **DevOps:** Docker, Kubernetes, CI/CD, GitHub Actions  
+- **Others:** Git, REST APIs, WordPress, Agile Methodologies  
 
 ---
 
 ### Experience
 
-#### Events Vice Head, CS Department
-**National University of Computing and Emerging Sciences**  
-*September 2023 – Present | Islamabad, Pakistan*  
-- Led various events for the department, managing logistics, coordination, and technical setups.
+#### Full-Stack Intern  
+**10Coders**  
+*June 2024 – July 2024 | Karachi, Pakistan*  
+- Built responsive personal portfolios using HTML, SCSS, and jQuery.  
+- Created gaming landing pages with WordPress and custom designs.
 
-#### DevOps Course Projects
-**National University of Computing and Emerging Sciences**  
-*January 2024 – Present*  
-- Completed a DevOps course focusing on Kubernetes, CI/CD pipelines, and containerization.
-
-#### Freelancer – Web Developer & DevOps
-*June 2023 – Present | Remote*  
-- Developed full-stack applications and integrated CI/CD pipelines using Docker, GitHub Actions, and Helm.
+#### Frontend Intern  
+**CodSoft**  
+*June 2023 – July 2023 | Dehli, India*  
+- Added features like booking, destination browsing, and package selection using React.  
+- Managed backend data integration and functionality with SQL.  
 
 ---
 
 ### Projects
 
-#### MERN Social Application (with CI/CD)
-**Technologies:** React, Node.js, MongoDB, Docker, GitHub Actions  
-- Created and containerized a full-stack social media application and set up a CI/CD pipeline using GitHub Actions for continuous deployment.
+#### Dynamic Websites  
+**Technologies:** HTML, SCSS, jQuery, WordPress  
+- Designed more than five dynamic websites including portfolios and landing pages.
 
-#### Virtual Glasses Try-On
-**Technologies:** React, Node.js  
-- Developed a virtual glasses try-on feature for an e-commerce site using React and Node.js.
+#### Academic Resource Portal  
+**Technologies:** React, Node.js, Express, MongoDB  
+- Implemented a centralized academic resource portal for students and faculty.
 
-#### CI/CD Pipeline with Docker and GitHub Actions
-**Technologies:** Docker, GitHub Actions, MongoDB  
-- Automated testing, image building, and deployment processes for a full-stack application.
+#### Food Blogging  
+**Technologies:** React, Node.js, Express, MongoDB  
+- Developed a recipe website with a user-friendly interface for exploring and saving food recipes.
+
+#### Travel Website  
+**Technologies:** React, Node.js, Express  
+- Built a responsive travel website with search, planning, and booking features.
+
+#### Railway Reservation Website  
+**Technologies:** Java, JavaFX, MySQL  
+- Created a railway web application for booking tickets, checking schedules, and managing reservations.
+
+#### University Portal  
+**Technologies:** SQL, C#  
+- Designed a portal for student management, course enrollment, and grade tracking.
 
 ---
 
 ### Education
 
-#### Computer Science
+#### Bachelor of Science in Computer Science  
 **National University of Computing and Emerging Sciences**  
-*September 2021 – Present | Islamabad, Pakistan*
+*August 2021 – June 2025 (Expected)*  
+- **CGPA:** 2.8  
+- **Courses:** OOP, Data Structures, Algorithms, Databases, DevOps, Cloud Computing  
 
 ---
 
-### Connect with me
-- [LinkedIn: Fariz Ahmad](https://www.linkedin.com/in/farizahmad16/)
+### Certifications
+- **AWS Certified Cloud Practitioner (2024)**  
+- **Intro to React (2023)**  
+- **Intro to Front End Development (2023)**  
+- **Python for Beginners (2023)**  
+
+---
+
+### Co-Curricular Activities
+- **Vice Head Events Team** | Fast Computing Society | *Aug 2024 – Jun 2025*  
+- **Technical Projects Team** | GDGoc | *Aug 2024 – Jun 2025*  
+- **Front-Desk Officer** | NaSCon | *Feb 2024 – Apr 2024*  
+  - Managed event registration, issuing tickets to participants, and ensuring smooth entry processes.
 
 ---
 
